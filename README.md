@@ -1,2 +1,12 @@
 # Digital-electronics-2
-AVR-repository 10h
+
+## VUT
+AVR-**repository** 10h
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
